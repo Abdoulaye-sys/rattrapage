@@ -1,0 +1,7 @@
+# Ignore les fichiers config
+config_*.php
+# Ignore le dossier vendor
+vendor/
+
+# Ignore le fichier .env
+.env
